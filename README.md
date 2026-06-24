@@ -145,3 +145,8 @@ Jika Anda ingin menjalankan sistem di lingkungan lokal (*development mode*), pas
 
 **Link Demo Aplikasi**
 **https://project-uas-pem-web-2-zahrah.netlify.app/**
+
+**Link Video YouTube** 
+**https://youtu.be/t7X3E97ZIrc?si=CnolAqWOvUuzw2LM**
+
+
